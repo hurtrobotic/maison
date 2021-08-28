@@ -1,8 +1,9 @@
-27/08/2021
+28/08/2021
 
 - Améliorations suite à réflexion
 - Adaptations totale de la sdb
 - Adaptations des plans suite au check de l'existant.
+- Ajoute des quotes pour appliques et spots.
 
 Rez
 ***
@@ -20,3 +21,6 @@ Rez
 - Applique couloir vers la chambre secondaire : voir avec Christophe, je ne me rappelle pas
 - Adaptation escalier vers grenier, ajout interrupteur
 - Adaptation escalier vers rez : reprise existant, voir avec Christophe concernant le 2ième interrupteur : je ne me rappelle pas.
+
+Attention au rendu et essentiellement aux cloisons du hall, salle de bain : ayant eu quelques soucis à la réalisation, se référer aux mesures correctives envoyées :
+pour rappel : Chambre parentale +26.5cm, Hall -20cm, chambre secondaire +11cm
