@@ -1,26 +1,32 @@
-28/08/2021
+10/12/2021
 
-- Améliorations suite à réflexion
-- Adaptations totale de la sdb
-- Adaptations des plans suite au check de l'existant.
-- Ajoute des quotes pour appliques et spots.
+Prise en compte de l'AP pour la décoration intérieure.
+
+Retrait des quotes pour appliques et spots : charge trop les plans.
+On peut retrouver les quotes sur la branche "v1.004-Electricite-côtes" au niveau de github
 
 Rez
 ***
+- Hall entrée garage : prises deviennent basses
+- Salle à Manger : Ajout d’un applique dans le prolongement de la cuisine (même hauteur).
+La hauteur des appliques correspond un peu au dessus des meubles colonne
 - Salon : Ajout prise au milieu du mur porteur
-- Couloir : Correction par rapport à l'existant, vu avec Christophe : 
-  + 1 spot couloir vers salon
-  + 1 spot couloir vers cuisine
-  (5 de chaque côté)
-- Arrière cuisine : Correction par rapport à l'existant, suite à réflexion avec Christophe
 
 1er étage
 *********
-- Applique chambre : voir avec Christophe, je ne me rappelle pas
-- Refonte SDB
-- Applique couloir vers la chambre secondaire : voir avec Christophe, je ne me rappelle pas
-- Adaptation escalier vers grenier, ajout interrupteur
-- Adaptation escalier vers rez : reprise existant, voir avec Christophe concernant le 2ième interrupteur : je ne me rappelle pas.
+- Revue de la chambre d'ami vue sur rue : Chambre d’ami (vue rue) : changement d’organisation et ajout d’appliques suspendues venant du plafonds
+- Chambre principale : ajout d’appliques suspendues venant du plafonds
+- SDB : ajout détail
+- Bureau : Retrait prises aux sol, réaorganisation
 
-Attention au rendu et essentiellement aux cloisons du hall, salle de bain : ayant eu quelques soucis à la réalisation, se référer aux mesures correctives envoyées :
-pour rappel : Chambre parentale +26.5cm, Hall -20cm, chambre secondaire +11cm
+2ième étage
+***********
+- Emplacement vmc
+
+Pour rappel par rapport aux plans d'exec: Chambre parentale +26.5cm, Hall -20cm, chambre secondaire +11cm
+
+Attention particulière
+***********************
+Ne pas encore travailler le mur en pierre avant sablage le 20/21 décembre.
+La salle à manger : le mur restera finalement apparent (voir proposition architecte) : 
+on le travaillera donc également un peu plus tard.
