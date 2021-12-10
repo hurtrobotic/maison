@@ -8,6 +8,7 @@ On peut retrouver les quotes sur la branche "v1.004-Electricite-côtes" au nivea
 Rez
 ***
 - Hall entrée garage : prises deviennent basses
+- Hall entrée principale : ajout prise près de la fenêtre
 - Salle à Manger : Ajout d’un applique dans le prolongement de la cuisine (même hauteur).
 La hauteur des appliques correspond un peu au dessus des meubles colonne
 - Salon : Ajout prise au milieu du mur porteur
